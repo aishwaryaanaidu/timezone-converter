@@ -1,0 +1,42 @@
+.page-outline {
+    margin: 25vh 5vw;
+}
+
+.dropdown {
+    margin: 2% 1%;
+    width: 22.5vw;
+}
+
+.input {
+    margin: 2% 1%;
+    width: 11vw;
+}
+
+.heading {
+    font-size: 30px;
+    margin-bottom: 5vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-style: italic;
+}
+
+.result {
+    font-size: 1.9em;
+    font-weight: 500px;
+    text-align: center;
+}
+
+.card {
+    height: 35vh;
+    align-items: center;
+}
+
+.text-color, .ant-card-head-title {
+    color: #792589;
+}
+
+.convert-button {
+    background-color: #792589;
+    float: right;
+    margin-top: 2%;
+}
